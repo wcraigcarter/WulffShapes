@@ -24,4 +24,7 @@ The other is a Wolfram Mathematica notebook that can be edited with a Mathematic
 
 It is also possible, but slow, do use this tool on the Wolfram Cloud: [https://www.wolframcloud.com/obj/ccarter/Published/Wulffshapes/Wulff_Shape_Calculations_and_Visualization_2026.cdf.nb](url)
 
+This code is a rewrite (2026) of the previous Wulffmaker.
+It is faster and some errors have been fixed.
+
 Keywords: Wulff Shape, Crystals, Anisotropy, Bravais Lattice, Crystallographic Point Group
