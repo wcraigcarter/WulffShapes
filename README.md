@@ -7,6 +7,8 @@ This is an interactive that computes and displays Wulff Shapes interactively.
 One enters the Miller indices and surface energy (energy/area) of each of the facets and
 the can be changed on the fly.
 
+![Interactive Tool Image](wulff_shape_tool.png)
+
 It contains all of the 32 crystallographic point groups and the Bravais lattice parameters can
 be changed interactively.
 
